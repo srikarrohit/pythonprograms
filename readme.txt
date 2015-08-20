@@ -12,3 +12,4 @@ input() in both taked input as expressions//extra careful
 reading variables in a line
 --read as a string then split then convert into the necessary datatype and map it to the required number of variables
 map(int, raw_input().split())
+couldn't log a python session. I guess one can only log in an ipython session
